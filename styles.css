@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+.hed{
+	text-align:center;
+	}
+ul{
+	list-style-type:none;
+}
+li>a{
+	text-decoration-line:none;
+}
+*{
+	background-color: rgb(204, 204, 204);
+}
+.player_one{
+	background-color:rgb(225,225,225);
+	padding:10px;
+	border-radius:10px;
+}
+.player_two{
+	width:1000px
+	padding:10px;
+	border-radius:10px;
+}
+
